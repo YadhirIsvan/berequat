@@ -16,13 +16,10 @@ export const Contact = (props) => {
   };
   const clearState = () => setState({ ...initialState });
   
-  
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
-    
-    {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
-    
+
     emailjs
       .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
       .then(
@@ -35,6 +32,7 @@ export const Contact = (props) => {
         }
       );
   };
+
   return (
     <div>
       <div id="contact">
@@ -47,7 +45,9 @@ export const Contact = (props) => {
                   Por favor, rellene el formulario a continuación para enviarnos un correo electrónico y nos pondremos en contacto con usted lo antes posible.
                 </p>
               </div>
-              <form name="sentMessage" validate onSubmit={handleSubmit}>
+              
+
+<form name="sentMessage" validate onSubmit={handleSubmit}>
                 <div className="row">
                   <div className="col-md-6">
                     <div className="form-group">
@@ -92,9 +92,17 @@ export const Contact = (props) => {
                 </div>
                 <div id="success"></div>
                 <button type="submit" className="btn btn-custom btn-lg">
-                  Send Message
+                  Enviar mensaje
                 </button>
               </form>
+              {/* aquí van las imágenes en lugar del formulario */}
+              <div style={{ display: "flex", flexDirection: "column", gap: "15px" }}>
+                <img src="img/contact/Imagen pegada.png" alt="Imagen 1" />
+                <img src="img/contact/Imagen pegada (2).png" alt="Imagen 2" />
+                <img src="img/contact/Imagen pegada (3).png" alt="Imagen 3" />
+                <img src="img/contact/Imagen pegada (4).png" alt="Imagen 4" />
+                <img src="img/contact/Imagen pegada (5).png" alt="Imagen 5" />
+              </div>
             </div>
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
@@ -162,3 +170,4 @@ export const Contact = (props) => {
     </div>
   );
 };
+
