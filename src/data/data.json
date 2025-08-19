@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "BEREQUAT",
+    "paragraph": "Berequat, es una empresa que esta dedicada a la comercialización, fabricación, y distribución de productos químicos para la industria; y sus instalaciones están ubicadas estratégicamente en la ciudad de Córdoba, Veracruz; siendo un punto geográfico en el cual concurren todas las carreteras que conectan el centro y norte de la república con el sureste del país y Centroamérica; lo cual le da una ventaja competitiva sobre otros distribuidores de productos similares. "
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Berequat, nace como S.A. en octubre del año 2011, y a partir de esa fecha ha realizado alianzas estratégicas con productores y clientes, logrando con ello una alta competitividad, lo cual, nos ha permitido lograr una estabilidad que nos hace ser uno de los proveedores más confiables de la región sureste. Para el año 2015, Berequat crece en infraestructura de transporte y fortalece su área de especialidades agregando nuevas líneas de materiales diseñados a la medida de la necesidad de la industria. ",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -68,18 +68,18 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Calderas",
+      "text": "Tratamientos para conservación y mantenimiento "
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "  Tratamiento de aguas",
+      "text": "Floculantes , Coagulantes , Polímeros"
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": " Torres de enfriamiento",
+      "text": "Alguicidas, Inhibidores de corrosión, Inhibidores de incrustación "
     },
     {
       "icon": "fa fa-language",
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Misión",
+      "text": "Proporcionar productos químicos y servicios de calidad a nivel nacional, a través de la mejora continua, y la mentalidad de ganar-ganar; así como promoviendo la sustentabilidad con todas las partes interesadas."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Visión 2023",
+      "text": "Consolidar nuestra imagen como un corporativo integral, innovador y socialmente responsable líder en su ramo, a nivel sureste mexicano, que se distinga por el trato digno, y preferencia de nuestros colaboradores y socios comerciales."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Política de Calidad",
+      "text": "Somos una empresa dedicada a la compra, distribución y desarrollo de productos químicos y minerales. Ofrecemos soluciones de calidad para la industria, cuidando el medio ambiente, garantizando la seguridad de nuestro personal y fomentando la mejora continua para un crecimiento sustentable."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Seccion Extra",
+      "text": "se puede añadir un punto mas a esta seccion o se puede quitar"
     }
   ]
 }
