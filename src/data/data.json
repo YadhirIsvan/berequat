@@ -83,18 +83,18 @@
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Especialidades",
+      "text": "1.Bere-Cal Plus 2000 2.Bioh-Quat HC 900 3.Dete-Quat HF 950 4.Ecol-Quat O2 "
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Minerales",
+      "text": "1.Cal Química alta Pureza 2.Carbonato de Calcio 3.Carbonato de Sodio Ligero "
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Químicos Básicos",
+      "text": "1.Bere-Cal Plus 2000 2.Bioh-Quat HC 900 3.Dete-Quat HF 950 4.Ecol-Quat O2 "
     }
   ],
   "Testimonials": [
